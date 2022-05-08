@@ -12,3 +12,5 @@
 - 👯 I’m looking to collaborate on Opensourced Projects
 - 🤔 I’m working on my own linux distro from scratch [Ufolinux](https://github.com/ufolinux)
 - 📫 How to reach me: [Telegram](https://t.me/cybersecbyte)
+
+<img align="centre" src="https://github-readme-stats.vercel.app/api?username=cybersecbyte&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
