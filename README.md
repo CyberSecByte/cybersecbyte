@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning new things
 - 👯 I’m looking to collaborate on Opensourced Projects
 - 🤔 I’m working on my own linux distro from scratch [Ufolinux](https://github.com/ufolinux)
-- 📫 How to reach me: [Telegram](https://t.me/cybersecbyte)
+- 📫 How to reach me: [Telegram](https://t.me/cybersecbyte_xD)
 
 ![](https://komarev.com/ghpvc/?username=CyberSecByte&color=brightgreen)
 
